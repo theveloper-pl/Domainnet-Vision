@@ -6,6 +6,7 @@ This GitHub repository contains a Convolutional Neural Network (CNN) model imple
 
 ## Dataset Details
 https://www.tensorflow.org/datasets/catalog/domainnet
+
 The DomainNet dataset consists of:
 
 - Real Photos: 120,906 training and 52,041 testing images
