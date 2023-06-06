@@ -2,7 +2,7 @@
 
 ## Description
 
-This GitHub repository contains a Convolutional Neural Network (CNN) model implemented in TensorFlow to process the DomainNet dataset. The DomainNet dataset comprises images from six distinct domains, including real photos, painting, clipart, quickdraw, infograph, and sketch. The images from these domains are further categorized into 345 classes. This TensorFlow-based CNN model provides an efficient way of training and testing neural networks on this multi-domain, multi-class dataset.
+This GitHub repository contains testing different types of Convolutional Neural Network (CNN) models with different paramiters to process the DomainNet dataset with best results. The DomainNet dataset comprises images from six distinct domains, including real photos, painting, clipart, quickdraw, infograph, and sketch. The images from these domains are further categorized into 345 classes. This TensorFlow-based CNN model provides an efficient way of training and testing neural networks on this multi-domain, multi-class dataset.
 
 ## Dataset Details
 https://www.tensorflow.org/datasets/catalog/domainnet
